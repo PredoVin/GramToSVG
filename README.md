@@ -10,14 +10,10 @@ a = Angle
 
 p = Rules
 
-The grammar should be written like in the example below:
+The grammar should be written like in the example below (There is also an example in the project already):
 
 E : F, +, -
-
 n : 5
-
 w : F
-
 a : 90
-
 p : F>F+F-F-F+F
