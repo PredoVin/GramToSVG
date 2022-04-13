@@ -1,14 +1,16 @@
-# E = Alphabet
+# Notice: The wikipedia examples for L-Systems use the "−" character instead of "-". Please use "-" in the Grammar.txt file
 
-# n = Number of iterations
+E = Alphabet
 
-# w = Start
+n = Number of iterations
 
-# a = Angle
+w = Start
 
-# p = Rules
+a = Angle
 
-# The grammar should be written like in the example below:
+p = Rules
+
+The grammar should be written like in the example below:
 
 E : F, +, -
 
