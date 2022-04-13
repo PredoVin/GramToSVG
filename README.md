@@ -1,4 +1,4 @@
-# Notice: The wikipedia examples for L-Systems uses the "−" character instead of "-". Please use "-" in the Grammar.txt file
+# Notice: The wikipedia examples for L-Systems use the "−" character instead of "-". Please use "-" in the Grammar.txt file
 
 E = Alphabet
 
